@@ -1,0 +1,2100 @@
+[{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110442",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "425,12447",
+    								"last_min_order": "37000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110451",
+    								"name": "Çevre Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "80",
+    								"field": "SAY",
+    								"last_min_score": "266,94283",
+    								"last_min_order": "232000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110469",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "418,0695",
+    								"last_min_order": "41100.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110478",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "403,47177",
+    								"last_min_order": "50000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110487",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "385,17519",
+    								"last_min_order": "62400.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103130128",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "nan",
+    								"second": "İkinci Öğretim",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "355,9879",
+    								"last_min_order": "86300.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110496",
+    								"name": "Jeofizik Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "20",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110503",
+    								"name": "Jeoloji Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "30",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110512",
+    								"name": "Maden Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110521",
+    								"name": "Makine Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "395,47115",
+    								"last_min_order": "55200.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103130137",
+    								"name": "Makine Mühendisliği",
+    								"lang": "nan",
+    								"second": "İkinci Öğretim",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "90",
+    								"field": "SAY",
+    								"last_min_score": "368,18479",
+    								"last_min_order": "75500.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110539",
+    								"name": "Metalurji ve Malzeme Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "309,13777",
+    								"last_min_order": "142000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103110548",
+    								"name": "Tekstil Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "40",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410333",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "3.0",
+    								"quota": "100",
+    								"field": "SAY",
+    								"last_min_score": "430,49316",
+    								"last_min_order": "34100.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410342",
+    								"name": "Biyomühendislik",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "329,04377",
+    								"last_min_order": "115000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410351",
+    								"name": "Deri Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "20",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410369",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "80",
+    								"field": "SAY",
+    								"last_min_score": "417,59504",
+    								"last_min_order": "41300.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410378",
+    								"name": "Gıda Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "4.0",
+    								"quota": "130",
+    								"field": "SAY",
+    								"last_min_score": "295,84276",
+    								"last_min_order": "165000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410387",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "399,18119",
+    								"last_min_order": "52700.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410396",
+    								"name": "Kimya Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "80",
+    								"field": "SAY",
+    								"last_min_score": "353,42893",
+    								"last_min_order": "88600.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410403",
+    								"name": "Makine Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "80",
+    								"field": "SAY",
+    								"last_min_score": "407,98429",
+    								"last_min_order": "47100.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "EGE ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "103410412",
+    								"name": "Tekstil Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "80",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010309",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "7",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010318",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "428,71376",
+    								"last_min_order": "35000.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010327",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "16",
+    								"field": "SAY",
+    								"last_min_score": "361,47049",
+    								"last_min_order": "81300.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010866",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "22",
+    								"field": "SAY",
+    								"last_min_score": "281,5025",
+    								"last_min_order": "195000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010424",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010433",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "411,23348",
+    								"last_min_order": "45100.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010442",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "12",
+    								"field": "SAY",
+    								"last_min_score": "348,12517",
+    								"last_min_order": "93800.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011079",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "30",
+    								"field": "SAY",
+    								"last_min_score": "254,97478",
+    								"last_min_order": "272000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010336",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "10",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010345",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "6",
+    								"field": "SAY",
+    								"last_min_score": "422,78314",
+    								"last_min_order": "38400.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010354",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "8",
+    								"field": "SAY",
+    								"last_min_score": "375,92321",
+    								"last_min_order": "69400.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011088",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "36",
+    								"field": "SAY",
+    								"last_min_score": "267,69849",
+    								"last_min_order": "230000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011025",
+    								"name": "Enerji Sistemleri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011034",
+    								"name": "Enerji Sistemleri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "388,38184",
+    								"last_min_order": "60100.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011043",
+    								"name": "Enerji Sistemleri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "18",
+    								"field": "SAY",
+    								"last_min_score": "272,2206",
+    								"last_min_order": "218000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011052",
+    								"name": "Enerji Sistemleri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "6",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011149",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "6",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011113",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "373,61939",
+    								"last_min_order": "71200.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011122",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "11",
+    								"field": "SAY",
+    								"last_min_score": "336,03835",
+    								"last_min_order": "106000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206011131",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "28",
+    								"field": "SAY",
+    								"last_min_score": "252,00511",
+    								"last_min_order": "283000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206090348",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206090347",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "393,87238",
+    								"last_min_order": "56300.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206090354",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "14",
+    								"field": "SAY",
+    								"last_min_score": "-",
+    								"last_min_order": "nan",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206090355",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "10",
+    								"field": "SAY",
+    								"last_min_score": "-",
+    								"last_min_order": "nan",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010557",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "4",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010566",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "429,13373",
+    								"last_min_order": "34800.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010584",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "12",
+    								"field": "SAY",
+    								"last_min_score": "379,71841",
+    								"last_min_order": "66400.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "YAŞAR ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "206010875",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "29",
+    								"field": "SAY",
+    								"last_min_score": "259,5568",
+    								"last_min_order": "256000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510022",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "4",
+    								"field": "SAY",
+    								"last_min_score": "452,64899",
+    								"last_min_order": "22900.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510676",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "24",
+    								"field": "SAY",
+    								"last_min_score": "407,33432",
+    								"last_min_order": "47500.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510746",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "16",
+    								"field": "SAY",
+    								"last_min_score": "279,65982",
+    								"last_min_order": "199000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511374",
+    								"name": "Biyomedikal Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "2",
+    								"field": "SAY",
+    								"last_min_score": "401,55931",
+    								"last_min_order": "51200.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511383",
+    								"name": "Biyomedikal Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "22",
+    								"field": "SAY",
+    								"last_min_score": "284,42427",
+    								"last_min_order": "188000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510879",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "4",
+    								"field": "SAY",
+    								"last_min_score": "417,85017",
+    								"last_min_order": "41200.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510888",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "32",
+    								"field": "SAY",
+    								"last_min_score": "374,85676",
+    								"last_min_order": "70200.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510897",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "4",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510049",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "438,24642",
+    								"last_min_order": "30100.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510694",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "35",
+    								"field": "SAY",
+    								"last_min_score": "397,07123",
+    								"last_min_order": "54100.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510764",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "14",
+    								"field": "SAY",
+    								"last_min_score": "257,14913",
+    								"last_min_order": "264000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511338",
+    								"name": "Genetik ve Biyomühendislik",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "396,85601",
+    								"last_min_order": "54200.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511471",
+    								"name": "Genetik ve Biyomühendislik",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "30",
+    								"field": "SAY",
+    								"last_min_score": "266,39315",
+    								"last_min_order": "234000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510913",
+    								"name": "Gıda Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "2",
+    								"field": "SAY",
+    								"last_min_score": "312,72264",
+    								"last_min_order": "137000.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510922",
+    								"name": "Gıda Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "18",
+    								"field": "SAY",
+    								"last_min_score": "265,98736",
+    								"last_min_order": "235000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511453",
+    								"name": "Havacılık ve Uzay Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "416,06253",
+    								"last_min_order": "42200.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511489",
+    								"name": "Havacılık ve Uzay Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "30",
+    								"field": "SAY",
+    								"last_min_score": "281,77961",
+    								"last_min_order": "194000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511153",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "390,49179",
+    								"last_min_order": "58600.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511444",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "36",
+    								"field": "SAY",
+    								"last_min_score": "336,17099",
+    								"last_min_order": "106000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511277",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "9",
+    								"field": "SAY",
+    								"last_min_score": "251,66609",
+    								"last_min_order": "285000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511435",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "4",
+    								"field": "SAY",
+    								"last_min_score": "414,98346",
+    								"last_min_order": "42800.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511408",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "36",
+    								"field": "SAY",
+    								"last_min_score": "362,85975",
+    								"last_min_order": "80100.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511347",
+    								"name": "Mekatronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "3",
+    								"field": "SAY",
+    								"last_min_score": "407,07382",
+    								"last_min_order": "47600.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511356",
+    								"name": "Mekatronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "25",
+    								"field": "SAY",
+    								"last_min_score": "322,28055",
+    								"last_min_order": "123000.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203511365",
+    								"name": "Mekatronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510067",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "5",
+    								"field": "SAY",
+    								"last_min_score": "446,97454",
+    								"last_min_order": "25700.0",
+    								"grant": "100.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510701",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "33",
+    								"field": "SAY",
+    								"last_min_score": "386,93636",
+    								"last_min_order": "61100.0",
+    								"grant": "50.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    				"uType": "Vakıf",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "203510773",
+    								"name": "Yazılım Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "nan",
+    								"quota": "12",
+    								"field": "SAY",
+    								"last_min_score": "260,33897",
+    								"last_min_order": "253000.0",
+    								"grant": "25.0"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810068",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "447,00268",
+    								"last_min_order": "25700.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810157",
+    								"name": "Biyomühendislik",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "50",
+    								"field": "SAY",
+    								"last_min_score": "346,3802",
+    								"last_min_order": "95500.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810162",
+    								"name": "Çevre Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "40",
+    								"field": "SAY",
+    								"last_min_score": "-",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810077",
+    								"name": "Elektronik ve Haberleşme Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "424,08449",
+    								"last_min_order": "37700.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810159",
+    								"name": "Enerji Sistemleri Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "40",
+    								"field": "SAY",
+    								"last_min_score": "-",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810129",
+    								"name": "Gıda Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "307,99671",
+    								"last_min_order": "144000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810111",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "401,55527",
+    								"last_min_order": "51200.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810086",
+    								"name": "Kimya Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "369,13426",
+    								"last_min_order": "74800.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810095",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "427,88087",
+    								"last_min_order": "35500.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "105810158",
+    								"name": "Malzeme Bilimi ve Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "50",
+    								"field": "SAY",
+    								"last_min_score": "309,55144",
+    								"last_min_order": "142000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "112910017",
+    								"name": "Bilgisayar Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "112910025",
+    								"name": "Biyomedikal Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "112910018",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "112910019",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "111110046",
+    								"name": "Biyomedikal Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "30",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "111110081",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "111110069",
+    								"name": "Endüstri Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "111110058",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik Fakültesi",
+    							"department": {
+    								"id": "111110070",
+    								"name": "Makine Mühendisliği",
+    								"lang": "nan",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "60",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710103",
+    								"name": "Biyomedikal Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "336,71929",
+    								"last_min_order": "105000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710042",
+    								"name": "Elektrik-Elektronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "395,14565",
+    								"last_min_order": "55400.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710184",
+    								"name": "Harita Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "288,25699",
+    								"last_min_order": "180000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710087",
+    								"name": "İnşaat Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "353,45163",
+    								"last_min_order": "88600.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710051",
+    								"name": "Makine Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "370,19793",
+    								"last_min_order": "73900.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710078",
+    								"name": "Malzeme Bilimi ve Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "257,31486",
+    								"last_min_order": "264000.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710112",
+    								"name": "Mekatronik Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "2.0",
+    								"quota": "70",
+    								"field": "SAY",
+    								"last_min_score": "351,52654",
+    								"last_min_order": "90400.0",
+    								"grant": "nan"
+    							}
+    					}
+    			}, 
+{
+    				"university name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    				"uType": "Devlet",
+    				"items":  {
+    						"faculty": "Mühendislik ve Mimarlık Fakültesi",
+    							"department": {
+    								"id": "105710315",
+    								"name": "Petrol ve Doğalgaz Mühendisliği",
+    								"lang": "İngilizce",
+    								"second": "nan",
+    								"period": "4",
+    								"spec": "1.0",
+    								"quota": "40",
+    								"field": "SAY",
+    								"last_min_score": "nan",
+    								"last_min_order": "nan",
+    								"grant": "nan"
+    							}
+    					}
+    			}, ]

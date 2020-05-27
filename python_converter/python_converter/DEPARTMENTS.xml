@@ -1,0 +1,1368 @@
+<?xml version="1.0"?>
+<root>
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110442" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="37000.0">425,12447</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110451" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Çevre Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">80</quota>
+                 <last_min_score order="232000.0">266,94283</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110469" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="41100.0">418,0695</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110478" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="50000.0">403,47177</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110487" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="62400.0">385,17519</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103130128" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="İkinci Öğretim">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="86300.0">355,9879</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110496" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Jeofizik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">20</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110503" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Jeoloji Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">30</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110512" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Maden Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110521" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="55200.0">395,47115</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103130137" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="İkinci Öğretim">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">90</quota>
+                 <last_min_score order="75500.0">368,18479</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110539" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Metalurji ve Malzeme Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="142000.0">309,13777</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="DOKUZ EYLÜL ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103110548" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Tekstil Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">40</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410333" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="3.0">100</quota>
+                 <last_min_score order="34100.0">430,49316</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410342" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Biyomühendislik</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="115000.0">329,04377</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410351" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Deri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">20</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410369" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">80</quota>
+                 <last_min_score order="41300.0">417,59504</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410378" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Gıda Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="4.0">130</quota>
+                 <last_min_score order="165000.0">295,84276</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410387" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="52700.0">399,18119</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410396" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Kimya Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">80</quota>
+                 <last_min_score order="88600.0">353,42893</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410403" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">80</quota>
+                 <last_min_score order="47100.0">407,98429</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="EGE ÜNİVERSİTESİ" utype="Devlet">
+             <item id="103410412" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Tekstil Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">80</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010309" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">7</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010318" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="35000.0">428,71376</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010327" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">16</quota>
+                 <last_min_score order="81300.0">361,47049</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010866" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">22</quota>
+                 <last_min_score order="195000.0">281,5025</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010424" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010433" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="45100.0">411,23348</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010442" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">12</quota>
+                 <last_min_score order="93800.0">348,12517</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011079" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">30</quota>
+                 <last_min_score order="272000.0">254,97478</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010336" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">10</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010345" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">6</quota>
+                 <last_min_score order="38400.0">422,78314</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010354" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">8</quota>
+                 <last_min_score order="69400.0">375,92321</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011088" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">36</quota>
+                 <last_min_score order="230000.0">267,69849</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011025" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Enerji Sistemleri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011034" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Enerji Sistemleri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="60100.0">388,38184</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011043" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Enerji Sistemleri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">18</quota>
+                 <last_min_score order="218000.0">272,2206</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011052" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Enerji Sistemleri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">6</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011149" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">6</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011113" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="71200.0">373,61939</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011122" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">11</quota>
+                 <last_min_score order="106000.0">336,03835</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206011131" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">28</quota>
+                 <last_min_score order="283000.0">252,00511</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206090348" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206090347" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="56300.0">393,87238</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206090354" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">14</quota>
+                 <last_min_score order="nan">-</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206090355" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">10</quota>
+                 <last_min_score order="nan">-</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010557" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">4</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010566" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="34800.0">429,13373</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010584" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">12</quota>
+                 <last_min_score order="66400.0">379,71841</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="YAŞAR ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="206010875" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">29</quota>
+                 <last_min_score order="256000.0">259,5568</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510022" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">4</quota>
+                 <last_min_score order="22900.0">452,64899</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510676" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">24</quota>
+                 <last_min_score order="47500.0">407,33432</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510746" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">16</quota>
+                 <last_min_score order="199000.0">279,65982</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511374" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Biyomedikal Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">2</quota>
+                 <last_min_score order="51200.0">401,55931</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511383" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Biyomedikal Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">22</quota>
+                 <last_min_score order="188000.0">284,42427</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510879" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">4</quota>
+                 <last_min_score order="41200.0">417,85017</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510888" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">32</quota>
+                 <last_min_score order="70200.0">374,85676</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510897" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">4</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510049" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="30100.0">438,24642</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510694" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">35</quota>
+                 <last_min_score order="54100.0">397,07123</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510764" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">14</quota>
+                 <last_min_score order="264000.0">257,14913</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511338" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Genetik ve Biyomühendislik</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="54200.0">396,85601</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511471" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Genetik ve Biyomühendislik</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">30</quota>
+                 <last_min_score order="234000.0">266,39315</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510913" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Gıda Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">2</quota>
+                 <last_min_score order="137000.0">312,72264</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510922" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Gıda Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">18</quota>
+                 <last_min_score order="235000.0">265,98736</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511453" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Havacılık ve Uzay Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="42200.0">416,06253</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511489" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Havacılık ve Uzay Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">30</quota>
+                 <last_min_score order="194000.0">281,77961</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511153" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="58600.0">390,49179</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511444" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">36</quota>
+                 <last_min_score order="106000.0">336,17099</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511277" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">9</quota>
+                 <last_min_score order="285000.0">251,66609</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511435" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">4</quota>
+                 <last_min_score order="42800.0">414,98346</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511408" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">36</quota>
+                 <last_min_score order="80100.0">362,85975</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511347" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Mekatronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">3</quota>
+                 <last_min_score order="47600.0">407,07382</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511356" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Mekatronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">25</quota>
+                 <last_min_score order="123000.0">322,28055</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203511365" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Mekatronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510067" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>100.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">5</quota>
+                 <last_min_score order="25700.0">446,97454</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510701" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>50.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">33</quota>
+                 <last_min_score order="61100.0">386,93636</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR EKONOMİ ÜNİVERSİTESİ" utype="Vakıf">
+             <item id="203510773" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Yazılım Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>25.0</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="nan">12</quota>
+                 <last_min_score order="253000.0">260,33897</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810068" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="25700.0">447,00268</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810157" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Biyomühendislik</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">50</quota>
+                 <last_min_score order="95500.0">346,3802</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810162" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Çevre Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">40</quota>
+                 <last_min_score order="nan">-</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810077" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektronik ve Haberleşme Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="37700.0">424,08449</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810159" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Enerji Sistemleri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">40</quota>
+                 <last_min_score order="nan">-</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810129" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Gıda Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="144000.0">307,99671</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810111" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="51200.0">401,55527</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810086" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Kimya Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="74800.0">369,13426</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810095" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="35500.0">427,88087</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ" utype="Devlet">
+             <item id="105810158" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Malzeme Bilimi ve Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">50</quota>
+                 <last_min_score order="142000.0">309,55144</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR BAKIRÇAY ÜNİVERSİTESİ" utype="Devlet">
+             <item id="112910017" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="nan" edu_style="nan">Bilgisayar Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR BAKIRÇAY ÜNİVERSİTESİ" utype="Devlet">
+             <item id="112910025" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="nan" edu_style="nan">Biyomedikal Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR BAKIRÇAY ÜNİVERSİTESİ" utype="Devlet">
+             <item id="112910018" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="nan" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR BAKIRÇAY ÜNİVERSİTESİ" utype="Devlet">
+             <item id="112910019" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="nan" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR DEMOKRASİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="111110046" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Biyomedikal Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">30</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR DEMOKRASİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="111110081" faculty="Mühendislik Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR DEMOKRASİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="111110069" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Endüstri Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR DEMOKRASİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="111110058" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR DEMOKRASİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="111110070" faculty="Mühendislik Fakültesi">
+                 <name lang="nan" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">60</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710103" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Biyomedikal Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="105000.0">336,71929</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710042" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Elektrik-Elektronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="55400.0">395,14565</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710184" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Harita Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="180000.0">288,25699</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710087" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">İnşaat Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="88600.0">353,45163</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710051" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Makine Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="73900.0">370,19793</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710078" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Malzeme Bilimi ve Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="264000.0">257,31486</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710112" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Mekatronik Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="2.0">70</quota>
+                 <last_min_score order="90400.0">351,52654</last_min_score>
+             </item>
+        </university>
+     </departments> 
+
+    <departments>
+         <university uname="İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ" utype="Devlet">
+             <item id="105710315" faculty="Mühendislik ve Mimarlık Fakültesi">
+                 <name lang="İngilizce" edu_style="nan">Petrol ve Doğalgaz Mühendisliği</name>
+                 <edu_time>4</edu_time>
+                 <grant>nan</grant>
+                 <point_type>SAY</point_type>
+                 <quota spec="1.0">40</quota>
+                 <last_min_score order="nan">nan</last_min_score>
+             </item>
+        </university>
+     </departments> 
+</root>
